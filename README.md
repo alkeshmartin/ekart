@@ -16,8 +16,9 @@ Newbabies-frontend developers Team
 1. Explaining the working of project
 2. Embed video of project demo
 ## Libraries used
-Bootstrap - V5.3
-PHP - V8
+Frontend-Bootstrap-V5.3.
+
+Backend -PHP - V8.
 ## How to configure
 Instructions for setting up project
 ## How to Run
